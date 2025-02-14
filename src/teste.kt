@@ -18,4 +18,15 @@
      println(peso)
 
      println(Byte.MAX_VALUE)
+
+      var eu: Long = 123123
+
+     println(eu)
+
+     println(Long.MAX_VALUE)
+     println(Long.MIN_VALUE)
+
+      var altura: Float = 1.99F
+      println(altura)
+
  }
